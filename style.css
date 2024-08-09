@@ -1,0 +1,76 @@
+* {
+  font-family: "Poppins", sans-serif; /* Mengatur font default untuk semua elemen menjadi 'Poppins' */
+}
+
+body {
+  font-family: "Poppins", sans-serif; /* Mengatur font untuk elemen body menjadi 'Poppins' */
+}
+
+.navbar .navbar-brand {
+  color: #d2cdc7;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: #898987 1px 1px 1px;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d2cdc7;
+}
+
+.jumbotron .display-4 {
+  font-weight: 325;
+  text-shadow: #b4b4b2 1px 1px 1px;
+}
+
+.jumbotron .lead {
+  font-weight: 200;
+  text-shadow: #b4b4b2 1px 1px 1px;
+}
+
+#about .col {
+  font-weight: 300;
+  text-shadow: #7c7c77 1px 1px 1px;
+}
+
+#resume {
+  background-color: #d2cdc7;
+}
+
+/* #resume .card {
+  width: 1000px;
+  height: auto;
+} */
+
+#resume .col {
+  font-weight: 300;
+  text-shadow: #c0c0c0 1px 1px 1px;
+}
+
+#resume h3 {
+  font-weight: 400;
+  text-shadow: #c0c0c0 1px 1px 1px;
+  margin-left: 2rem;
+}
+
+#project .col {
+  font-weight: 300;
+  text-shadow: #8d8d8d 1px 1px 1px;
+}
+
+#contact {
+  background-color: #d2cdc7;
+}
+
+#contact .col {
+  font-weight: 300;
+  text-shadow: #8d8d8d 1px 1px 1px;
+}
+
+section {
+  padding-top: 5rem;
+}
+footer {
+  border-top: 2px solid #ccc;
+}
